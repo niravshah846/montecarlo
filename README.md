@@ -67,6 +67,8 @@ After running the simulation, a chart like this will be generated:
 
 - Median line represents expected portfolio growth
 - Shaded region shows uncertainty (risk range)
+<img width="640" height="480" alt="age_distribution" src="https://github.com/user-attachments/assets/3843ad5c-f611-463a-b5b4-548d2237415b" />
+
 
 ## 🔧 Configuration
 
